@@ -5,7 +5,6 @@ GramaBot is an AI-powered chatbot that helps users access government welfare sch
 ## Features
 - Supports multiple languages
 - Scheme details with eligibility and documents
-- PDF and QR code generation
 - Simple and accessible web interface
 
 ## Tech Stack
